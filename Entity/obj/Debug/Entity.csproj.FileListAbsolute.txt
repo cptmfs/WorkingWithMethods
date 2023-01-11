@@ -1,0 +1,6 @@
+C:\Users\Kaptan\source\repos\WorkingWithMethods\Entity\bin\Debug\Entity.dll
+C:\Users\Kaptan\source\repos\WorkingWithMethods\Entity\bin\Debug\Entity.pdb
+C:\Users\Kaptan\source\repos\WorkingWithMethods\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\Kaptan\source\repos\WorkingWithMethods\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Kaptan\source\repos\WorkingWithMethods\Entity\obj\Debug\Entity.dll
+C:\Users\Kaptan\source\repos\WorkingWithMethods\Entity\obj\Debug\Entity.pdb

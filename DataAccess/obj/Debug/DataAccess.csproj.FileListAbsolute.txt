@@ -1,0 +1,9 @@
+C:\Users\Kaptan\source\repos\WorkingWithMethods\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Kaptan\source\repos\WorkingWithMethods\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Kaptan\source\repos\WorkingWithMethods\DataAccess\bin\Debug\Entity.dll
+C:\Users\Kaptan\source\repos\WorkingWithMethods\DataAccess\bin\Debug\Entity.pdb
+C:\Users\Kaptan\source\repos\WorkingWithMethods\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Kaptan\source\repos\WorkingWithMethods\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Kaptan\source\repos\WorkingWithMethods\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Kaptan\source\repos\WorkingWithMethods\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Kaptan\source\repos\WorkingWithMethods\DataAccess\obj\Debug\DataAccess.pdb

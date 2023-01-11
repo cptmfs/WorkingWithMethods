@@ -1,0 +1,8 @@
+C:\Users\Kaptan\source\repos\WorkingWithMethods\ReferenceTypesDemo\bin\Debug\ReferenceTypesDemo.exe.config
+C:\Users\Kaptan\source\repos\WorkingWithMethods\ReferenceTypesDemo\bin\Debug\ReferenceTypesDemo.exe
+C:\Users\Kaptan\source\repos\WorkingWithMethods\ReferenceTypesDemo\bin\Debug\ReferenceTypesDemo.pdb
+C:\Users\Kaptan\source\repos\WorkingWithMethods\ReferenceTypesDemo\obj\Debug\ReferenceTypesDemo.csproj.AssemblyReference.cache
+C:\Users\Kaptan\source\repos\WorkingWithMethods\ReferenceTypesDemo\obj\Debug\ReferenceTypesDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kaptan\source\repos\WorkingWithMethods\ReferenceTypesDemo\obj\Debug\ReferenceTypesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Kaptan\source\repos\WorkingWithMethods\ReferenceTypesDemo\obj\Debug\ReferenceTypesDemo.exe
+C:\Users\Kaptan\source\repos\WorkingWithMethods\ReferenceTypesDemo\obj\Debug\ReferenceTypesDemo.pdb
